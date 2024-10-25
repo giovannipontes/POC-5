@@ -1,4 +1,11 @@
+/* styles/Greeting.module.css */
 .greeting {
   color: #0070f3;
   text-align: center;
+  padding: 10px;
+  border: 2px solid #0070f3;
+  border-radius: 8px;
+  background-color: #e0f7ff;
+  width: 60%;
+  margin: 20px auto;
 }
